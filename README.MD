@@ -25,3 +25,5 @@ This evaluation involves conducting a two-sample hypothesis test. The null hypot
 Selecting the appropriate alternative hypothesis (Ha) necessitates deciding between one-tailed and two-tailed tests. Given the absence of preliminary bias towards either design, a two-tailed test is recommended. This approach assumes Ha to embody the proposition that designs A and B differ in effectiveness.
 
 The computation of the p-value, indicative of the probability of observing such disparities by chance, is contingent upon the underlying data distribution. We will explore how to calculate this for both discrete and continuous metrics.
+
+
